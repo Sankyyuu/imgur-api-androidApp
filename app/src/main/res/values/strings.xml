@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Epicture</string>
+    <string name="title_activity_gallery">GalleryActivity</string>
+    <string name="title_activity_gallery_photo">GalleryPhotoActivity</string>
+    <string name="search_title">Search</string>
+    <string name="search_hint">Hint</string>
+</resources>
